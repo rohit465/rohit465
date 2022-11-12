@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Nimangre</h1>
-<h3 align="center">A Student, currently contributing in SWOC.</h3>
+<h3 align="center">A Student.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit465&label=Profile%20views&color=0e75b6&style=flat" alt="rohit465" /> </p> -->
 
-- 🔭 I’m currently working on **OpenSource contributer at SWOC'21**
+- 🔭 I’m currently working on **myself!**
 
 - 🌱 I’m currently learning **AngularJS,TypeScript,Flutter**
+
+- 👨‍💻 Visit my portfolio website at  **https://rohit465.github.io/RohitNimangre.github.io/**
 
 - 👯 I’m looking to collaborate on **Web Based Projects.**
 
